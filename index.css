@@ -10,9 +10,18 @@
 }
 .nav-logo{
     height: 50px;
-    width: 113px;
+    width: 50px;
 }
 .logo{
-    background-image: url("./images/shopping.png");
+    background-image: url("./images/social.png");
     height: 50px;
+    width: 50px;
+    background-size: cover;
+}
+.border{
+    border: 2px solid transparent;
+}
+.border:hover{
+    border: 2px solid white;
+
 }
